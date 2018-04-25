@@ -1,0 +1,21 @@
+{
+    "Header": {
+        "pending": "0",
+        "mset": "2",
+        "elem": "4",
+        "message": "",
+        "fwver": "2.25.0",
+        "build": "3874"
+    },
+    "metaData": {
+        "nRec": "47555",
+        "firstRec": {
+            "time": "1521789356",
+            "msec": "642"
+        },
+        "lastRec": {
+            "time": "1524643018",
+            "msec": "971"
+        }
+    }
+}
